@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm PICKLERICKIII 👋
 
-<!--
-**PICKLERICKIII/PICKLERICKIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class PickleRickIII:
 
-Here are some ideas to get you started:
+    def __init__(self):
+        self.name = "PICKLERICKIII"
+        self.language = "Python"
+        self.completed = ["Python Core", "Data Structures & Algorithms"]
+        self.currently_learning = "Game Development with Python"
+        self.interests = [
+            "Game Development",
+            "Problem Solving",
+            "Open Source"
+        ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def say_hi(self):
+        print("Thanks for visiting my GitHub profile!")
+
+me = PickleRickIII()
+me.say_hi()
+```
+## 🚀 About Me
+
+```python
+class PickleRickIII:
+
+    def __init__(self):
+        self.username = "PICKLERICKIII"
+        self.role = "Python Developer"
+        self.completed = [
+            "Python Core",
+            "Data Structures & Algorithms"
+        ]
+        self.currently_learning = "Python Game Development 🎮"
+        self.motto = "Code. Create. Play."
+
+    def introduce(self):
+        return f"""
+        Username: {self.username}
+        Role: {self.role}
+        Learning: {self.currently_learning}
+        Motto: {self.motto}
+        """
+
+player = PickleRickIII()
+print(player.introduce())
+```
