@@ -89,9 +89,9 @@ me = Developer()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PICKLERICKIII&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PICKLERICKIII&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PICKLERICKIII&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -117,7 +117,7 @@ D --> E[🚀 Publish Games]
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PICKLERICKIII&theme=algolia&no-frame=true&margin-w=10"/>
 
 </div>
 
@@ -127,7 +127,7 @@ D --> E[🚀 Publish Games]
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=PICKLERICKIII&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
