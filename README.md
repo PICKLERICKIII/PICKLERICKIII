@@ -14,7 +14,7 @@
 
 ## 🎯 About Me
 
-`````python
+```python
 class Developer:
     def __init__(self):
         self.name = "Jayden"
@@ -30,7 +30,7 @@ class Developer:
         return "Keep Coding. Keep Leveling Up."
 
 me = Developer()
-` ``
+```
 
 🌟 Passionate about turning ideas into interactive experiences.  
 🎓 Successfully completed **Python Core** and **DSA**.  
@@ -74,14 +74,14 @@ me = Developer()
 
 # 🎮 Current Quest
 
-````text
+```text
 [✔] Master Python Fundamentals
 [✔] Complete Data Structures & Algorithms
 [🔄] Learn Pygame
 [🔄] Build 2D Games
 [⬜] Publish My First Game
 [⬜] Become an Indie Game Developer
-` ``
+```
 
 ---
 
@@ -107,7 +107,7 @@ A[🐍 Python] --> B[🧠 DSA]
 B --> C[🎮 Pygame]
 C --> D[🕹️ Build Games]
 D --> E[🚀 Publish Games]
-` ``
+```
 
 </div>
 
@@ -140,6 +140,3 @@ D --> E[🚀 Publish Games]
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
-```
-
-Just replace `YOUR_USERNAME` with your actual GitHub username in the stats and trophy sections!
